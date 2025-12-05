@@ -1,4 +1,4 @@
-<h1 align="center">📈 Stock Trading & Portfolio Management Platform</h1>
+<h1 align="center">📈 Stockify - Trading & Portfolio Management Platform</h1>
 
 <p align="center">
   <b>A cloud-native stock trading simulation + portfolio management system built with React, Spring Boot, AWS Lambda, DynamoDB, and RDS.</b>
