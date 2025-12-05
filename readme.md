@@ -1,5 +1,29 @@
 <h1 align="center">📈 Stockify - Trading & Portfolio Management Platform</h1>
 
+
+---
+
+# 👥 Team Information
+
+## 🟥 **Team Name:** Red Team  
+## 🧑‍💼 **Team Lead:** Ujjwal  
+
+---
+
+## 👨‍💻 Developers
+- Rudraksh  
+- Rishabh  
+- Adarsh  
+- Dev  
+
+---
+
+## 🧪 Testers
+- Krithika  
+
+---
+
+
 <p align="center">
   <b>A cloud-native stock trading simulation + portfolio management system built with React, Spring Boot, AWS Lambda, DynamoDB, and RDS.</b>
 </p>
